@@ -1,0 +1,22 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 100%;
+}
+
+.title {
+  margin: 20px 0;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 16px 0 -8px;
+}
+
+.line > *:not(:last-child) {
+  margin-right: 10px;
+}

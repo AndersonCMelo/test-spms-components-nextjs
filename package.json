@@ -9,16 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@spms/react-icons": "file:spms-react-icons-0.2.8.tgz",
+    "@spms/styleguide": "file:spms-styleguide-0.2.9.tgz",
+    "@spms/ui-react": "file:spms-ui-react-0.3.5.tgz",
+    "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.3"
+    "eslint-config-next": "14.2.3",
+    "typescript": "^5"
   }
 }

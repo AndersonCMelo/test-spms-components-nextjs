@@ -1,0 +1,30 @@
+.template__main{
+	width: 100vw;
+	height: 100vh;
+	min-height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.template__menu{
+	min-height: calc(100% - 36px);
+}
+
+.template__content{
+	flex-grow:1;
+	width: min-content;
+	background: white;
+}
+
+.template__content_wrapper{
+	overflow: auto;
+	max-height: calc(100vh - 36px - 101px);
+	padding: 16px 32px 32px 32px;
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.template__footer{
+	width: 100vw;
+}
