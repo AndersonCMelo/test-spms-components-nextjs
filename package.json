@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@spms/react-icons": "file:spms-react-icons-0.2.8.tgz",
+    "@spms/react-icons": "file:spms-react-icons-0.2.9.tgz",
     "@spms/styleguide": "file:spms-styleguide-0.2.9.tgz",
-    "@spms/ui-react": "file:spms-ui-react-0.3.5.tgz",
+    "@spms/ui-react": "file:spms-ui-react-0.3.7.tgz",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18"

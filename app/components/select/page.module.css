@@ -4,3 +4,12 @@
   padding: 20px;
   width: 100%;
 }
+
+.title {
+  margin: 20px 0;
+}
+
+.input-container {
+  width: 500px;
+  margin-bottom: 20px;
+}
